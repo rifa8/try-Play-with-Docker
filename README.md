@@ -76,6 +76,7 @@ Show the data:
 ```
 SELECT * FROM my_table;
 ```
+![select](imgs/select.png)
 
 **4. Run CloudBeaver**
 
@@ -133,4 +134,7 @@ Block or select all queries to execute them at once. And press ctrl + enter for 
 Check the data.
 ![name-table-created](imgs/name-table-created.png)
 
+**7. Finsih**
+
+Thank you.
 
