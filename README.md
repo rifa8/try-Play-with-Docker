@@ -134,7 +134,7 @@ Block or select all queries to execute them at once. And press ctrl + enter for 
 Check the data.
 ![name-table-created](imgs/name-table-created.png)
 
-**7. Finsih**
+**7. Finish**
 
 Thank you.
 
